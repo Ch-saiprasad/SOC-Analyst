@@ -21,8 +21,8 @@ I'm self-learning cybersecurity with a focus on **Blue Team / Defensive Security
 | Phase | Topic | Status |
 |-------|-------|--------|
 | ✅ Phase 1 | Linux & Windows Fundamentals | Done |
-| 🔄 Phase 2 | Networking Basics (TCP/IP, DNS, HTTP) | In Progress |
-| ⏳ Phase 3 | SIEM & Log Analysis (Splunk) | Upcoming |
+| ✅ Phase 2 | Networking Basics (TCP/IP, DNS, HTTP) | Done |
+| 🔄️ Phase 3 | SIEM & Log Analysis (Splunk) | In Progress |
 | ⏳ Phase 4 | Endpoint Security & Monitoring | Upcoming |
 | ⏳ Phase 5 | Phishing Analysis & Threat Intelligence | Upcoming |
 | ⏳ Phase 6 | Hands-on SOC Simulations (LetsDefend) | Upcoming |
@@ -57,7 +57,7 @@ SOC-Analyst-Journey/
 
 ## 🏅 TryHackMe Progress
 
-- 🔗 TryHackMe Profile: [tryhackme.com/p/yourusername](https://tryhackme.com/p/yourusername)
+- 🔗 TryHackMe Profile: [tryhackme.com/p/saiprasadchalpuri0](https://tryhackme.com/p/saiprasadchalpuri0)
 - Rooms Completed: *(update this as you go)*
   - [ ] Pre-Security Path
   - [ ] Network Fundamentals
@@ -72,8 +72,8 @@ SOC-Analyst-Journey/
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn: [your LinkedIn URL here]
-- 🔐 TryHackMe: [your TryHackMe profile URL here]
+- 💼 LinkedIn: [www.linkedin.com/in/chalpuri-sai-prasad1808]
+- 🔐 TryHackMe: [https://tryhackme.com/p/saiprasadchalpuri0]
 
 ---
 
