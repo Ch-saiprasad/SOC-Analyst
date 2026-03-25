@@ -58,7 +58,7 @@ SOC-Analyst-Journey/
 ## 🏅 TryHackMe Progress
 
 - 🔗 TryHackMe Profile: [tryhackme.com/p/saiprasadchalpuri0](https://tryhackme.com/p/saiprasadchalpuri0)
-- Rooms Completed: *(update this as you go)*
+- Rooms Completed
   - [ ] Pre-Security Path
   - [ ] Network Fundamentals
   - [ ] Linux Fundamentals 1, 2, 3
